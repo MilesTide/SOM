@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Quant/.idea/Quant.iml" filepath="$PROJECT_DIR$/../Quant/.idea/Quant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOM.iml" filepath="$PROJECT_DIR$/.idea/SOM.iml" />
+      <module fileurl="file://F:/PyCode/SpiderLearning/.idea/SpiderLearning.iml" filepath="F:/PyCode/SpiderLearning/.idea/SpiderLearning.iml" />
+      <module fileurl="file://F:/PyCode/proxy_pool-master/.idea/proxy_pool-master.iml" filepath="F:/PyCode/proxy_pool-master/.idea/proxy_pool-master.iml" />
+      <module fileurl="file://F:/PyCode/spider01/.idea/spider01.iml" filepath="F:/PyCode/spider01/.idea/spider01.iml" />
+      <module fileurl="file://F:/PyCode/tutorial/.idea/tutorial.iml" filepath="F:/PyCode/tutorial/.idea/tutorial.iml" />
+    </modules>
+  </component>
+</project>
